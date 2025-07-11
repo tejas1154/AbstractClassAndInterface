@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeadlyDiamondProblem/1.0.0": {
+        "runtime": {
+          "DeadlyDiamondProblem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeadlyDiamondProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

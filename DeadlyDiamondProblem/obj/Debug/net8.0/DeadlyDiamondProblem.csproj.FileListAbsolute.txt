@@ -1,0 +1,14 @@
+D:\Swabhav\Assignment\DeadlyDiamondProblem\bin\Debug\net8.0\DeadlyDiamondProblem.exe
+D:\Swabhav\Assignment\DeadlyDiamondProblem\bin\Debug\net8.0\DeadlyDiamondProblem.deps.json
+D:\Swabhav\Assignment\DeadlyDiamondProblem\bin\Debug\net8.0\DeadlyDiamondProblem.runtimeconfig.json
+D:\Swabhav\Assignment\DeadlyDiamondProblem\bin\Debug\net8.0\DeadlyDiamondProblem.dll
+D:\Swabhav\Assignment\DeadlyDiamondProblem\bin\Debug\net8.0\DeadlyDiamondProblem.pdb
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\DeadlyDiamondProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\DeadlyDiamondProblem.AssemblyInfoInputs.cache
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\DeadlyDiamondProblem.AssemblyInfo.cs
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\DeadlyDiamondProblem.csproj.CoreCompileInputs.cache
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\DeadlyDiamondProblem.dll
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\refint\DeadlyDiamondProblem.dll
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\DeadlyDiamondProblem.pdb
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\DeadlyDiamondProblem.genruntimeconfig.cache
+D:\Swabhav\Assignment\DeadlyDiamondProblem\obj\Debug\net8.0\ref\DeadlyDiamondProblem.dll
